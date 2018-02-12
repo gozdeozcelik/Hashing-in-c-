@@ -1,0 +1,8 @@
+12 2 ayse student 8.5
+22 2 fatma student 19.25
+32 8 burak teacher 7.82
+42 4 beyza student 6.2
+52 7 ali teacher 7.23
+82 9 deniz student 9.8
+74 6 umut student 4.8
+77 6 nurten student 4.9
